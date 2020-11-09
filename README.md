@@ -1,7 +1,5 @@
-## LI. WILHELM (HAOJIANG)
+# LI. WILHELM (HAOJIANG)
 <a href="https://willi.uk"><img align="left" width="270" height="337" src="https://raw.githubusercontent.com/wilhelmli/wilhelmli.github.io/master/assets/images/Wiki/IMG_8155.jpg"></a>
-
-Chinese industrial designer, entrepreneur, and artist
 
 This is a [Chinese name](https://en.wikipedia.org/wiki/Chinese_name); the [family name](https://en.wikipedia.org/wiki/Chinese_surname) is [Li](https://en.wikipedia.org/wiki/Li_(surname_%E6%9D%8E)).
 
@@ -9,12 +7,9 @@ This is a [Chinese name](https://en.wikipedia.org/wiki/Chinese_name); the [famil
 
 Currently, Li is residing in [Brandenburg, Germany](https://en.wikipedia.org/wiki/Brandenburg) working on multiple projects while preparing a portfolio for Masters in [Architecture](https://en.wikipedia.org/wiki/Architecture) and [Economics](https://en.wikipedia.org/wiki/Economics).
 
-## Wikipedia
+### Wikipedia available in
 
-[English](https://github.com/wilhelmli/wilhelmli.github.io/wiki/en)
-
-[Français](https://github.com/wilhelmli/wilhelmli.github.io/wiki/fr)
-
-[Italiano](https://github.com/wilhelmli/wilhelmli.github.io/wiki/it)
-
+[English](https://github.com/wilhelmli/wilhelmli.github.io/wiki/en) • 
+[Français](https://github.com/wilhelmli/wilhelmli.github.io/wiki/fr) • 
+[Italiano](https://github.com/wilhelmli/wilhelmli.github.io/wiki/it) • 
 [Tiếng Việt](https://github.com/wilhelmli/wilhelmli.github.io/wiki/vn)
