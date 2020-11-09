@@ -7,9 +7,11 @@ This is a [Chinese name](https://en.wikipedia.org/wiki/Chinese_name); the [famil
 
 Currently, Li is residing in [Brandenburg, Germany](https://en.wikipedia.org/wiki/Brandenburg) working on multiple projects while preparing a portfolio for Masters in [Architecture](https://en.wikipedia.org/wiki/Architecture) and [Economics](https://en.wikipedia.org/wiki/Economics).
 
-### Wikipedia available in
+## Wikipedia available in
 
 [English](https://github.com/wilhelmli/wilhelmli.github.io/wiki/en) • 
 [Français](https://github.com/wilhelmli/wilhelmli.github.io/wiki/fr) • 
 [Italiano](https://github.com/wilhelmli/wilhelmli.github.io/wiki/it) • 
 [Tiếng Việt](https://github.com/wilhelmli/wilhelmli.github.io/wiki/vn)
+#
+© 2020 HALT CREATION TECHNOLOGY CORP. All rights reserved.
