@@ -2,7 +2,7 @@
 
 Currently, Li is residing in [Brandenburg, Germany](https://en.wikipedia.org/wiki/Brandenburg) working on multiple projects while preparing a portfolio for Masters in [Architecture](https://en.wikipedia.org/wiki/Architecture) and [Economics](https://en.wikipedia.org/wiki/Economics).
 
-Wikipedia
+### Wikipedia
 
 [English](https://github.com/wilhelmli/wilhelmli.github.io/wiki/en)
 
