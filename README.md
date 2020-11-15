@@ -19,7 +19,6 @@ Currently, Li is residing in [Brandenburg, Germany](https://en.wikipedia.org/wik
 ***
 <a href="https://willi.uk"><img align="left" width="180" alt="Sum-Calculator, 2020" title="Sum-Calculator, 2020" src="https://raw.githubusercontent.com/wilhelmli/wilhelmli.github.io/master/assets/images/Wiki/3ADE6696-EBBF-48EA-8002-8D945B426F8F.png"></a>
 <a href="https://willi.uk"><img align="left" width="180" alt="Sum-Pencil, 2020" title="Sum-Pencil, 2020" src="https://raw.githubusercontent.com/wilhelmli/wilhelmli.github.io/master/assets/images/Wiki/CD2A83B7-4377-4795-8D14-06719662D9B2.png"></a>
-<a href="https://willi.uk"><img align="left" width="180" alt="FFCC66 Packaging, 2018" title="FFCC66 Packaging, 2018" src="https://raw.githubusercontent.com/wilhelmli/wilhelmli.github.io/master/assets/images/blk-lb-924x1069.png"></a>
 <a href="https://willi.uk"><img align="" width="180" alt="HALT CREATION" title="HALT CREATION" src="https://raw.githubusercontent.com/wilhelmli/wilhelmli.github.io/master/assets/images/index-meta.jpg"></a>
 
 ***
