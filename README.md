@@ -10,10 +10,10 @@ Currently, Li is residing in [Brandenburg, Germany](https://en.wikipedia.org/wik
 
 ### Wikipedia available in
 ***
-[English](https://github.com/wilhelmli/wilhelmli.github.io/wiki/en) • 
-[Français](https://github.com/wilhelmli/wilhelmli.github.io/wiki/fr) • 
-[Italiano](https://github.com/wilhelmli/wilhelmli.github.io/wiki/it) • 
-[Tiếng Việt](https://github.com/wilhelmli/wilhelmli.github.io/wiki/vn)
+[English](https://github.com/wilhelmli/wilhelmli/wiki/en) • 
+[Français](https://github.com/wilhelmli/wilhelmli/wiki/fr) • 
+[Italiano](https://github.com/wilhelmli/wilhelmli/wiki/it) • 
+[Tiếng Việt](https://github.com/wilhelmli/wilhelmli/wiki/vn)
 ***
 ### Selected works
 ***
